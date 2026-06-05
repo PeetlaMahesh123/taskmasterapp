@@ -20,12 +20,19 @@ app.use(express.json());
 
 // Root Route
 app.get("/", (req, res) => {
+  
   res.send("TaskMaster API Running");
 });
 
 // API Routes
 app.use("/api", testRoute);
 
+app.get("/api", (req, res) => {
+  res.json({
+    success: true,
+    message: "TaskMaster API Running",
+  });
+});
 app.use("/api/auth", authRoutes);
 
 app.use("/api/tasks", taskRoutes);
