@@ -9,7 +9,7 @@ import { ThemeProvider } from './context/themeContext';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/taskmasterapp">
       <ThemeProvider>
         <App />
       </ThemeProvider>
