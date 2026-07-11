@@ -41,7 +41,10 @@ TypeScript
 * Supabase
 
 ## Authentication
-
+* Login
+* Registration
+* Protected Routes
+* Session Management
 
 
 ---
