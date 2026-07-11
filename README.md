@@ -42,10 +42,7 @@ TypeScript
 
 ## Authentication
 
-* Login
-* Registration
-* Protected Routes
-* Session Management
+
 
 ---
 
