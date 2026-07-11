@@ -23,11 +23,7 @@ https://peetlamahesh123.github.io/taskmasterapp/
 # Technology Stack
 
 ## Frontend
-HTML5
-CSS
-JavaScript
-React.js
-TypeScript
+
 
 
 ## Backend
