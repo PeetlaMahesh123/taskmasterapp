@@ -6,10 +6,10 @@ TaskMaster is a full-stack project management and team collaboration application
 The application enables organizations and teams to manage tasks, track project progress, organize schedules, manage team members, and monitor system activities through a centralized dashboard.
 
 
----
+
 Live link of a project: 
 
----
+
 https://peetlamahesh123.github.io/taskmasterapp/
 
 ---
